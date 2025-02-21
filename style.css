@@ -13,6 +13,7 @@ body {
     justify-content: space-between;
     padding: 20px 250px;
     align-items: center;
+    flex:1;
 }
 .header-logo {
     display: flex;
@@ -31,6 +32,7 @@ body {
     padding: 100px 250px;
     gap: 40px;
     justify-content: space-between;
+    flex:1;
 }
 .description {
     display: flex;
@@ -71,6 +73,7 @@ body {
     flex-direction: column;
     padding:40px 350px;
     gap: 40px;
+    flex: 1;
 }
 .squares-content {
     display: flex;
@@ -109,6 +112,7 @@ body {
     padding: 120px 350px;
     justify-content: center;
     gap: 20px;
+    flex: 1;
 }
 .main-quote {
     font-size: 36px;
@@ -129,6 +133,7 @@ body {
     display: flex;
     padding: 120px 250px;
     justify-content: center;
+    flex: 1;
 }
 .blue-frame {
     background-color: #3882F6;
@@ -169,6 +174,7 @@ body {
     justify-content: center;
     align-items: center;
     color: #F9FAF8;
+    flex: 1;
 }
 
 ul {
